@@ -1,4 +1,4 @@
-package com.designpattern.introduction;
+package com.designpattern.strategy;
 
 public abstract class Duck {
     /* 变化的部分 */

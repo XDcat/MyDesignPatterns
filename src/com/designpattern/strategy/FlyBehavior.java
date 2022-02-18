@@ -1,4 +1,4 @@
-package com.designpattern.introduction;
+package com.designpattern.strategy;
 
 public interface FlyBehavior {
     void fly();  // 飞行方式
